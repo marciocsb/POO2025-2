@@ -1,4 +1,4 @@
-package br.ufpb.br.marcio;
+package br.ufpb.dcx.amigosecreto;
 
 public class TesteMarcio {
     void main(){
